@@ -1,4 +1,4 @@
-# llm-testing-evalutation-framework
+# llm-testing-evaluation-framework
 LLM Testing & Evaluation Framework
 
 This project provides a lightweight framework to evaluate LLM performance.
